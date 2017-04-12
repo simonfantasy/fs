@@ -1,0 +1,222 @@
+2017-04-06 09:16:58,075 - kvs - INFO - requests done: MU PEK - SHA on 04-06 @08
+2017-04-06 09:16:58,097 - kvs - INFO - 10 results extracted to MU PEK - SHA on 04-06 @08
+2017-04-06 09:17:31,404 - kvs - INFO - requests done: MU PEK - SHA on 04-06 @14
+2017-04-06 09:17:31,421 - kvs - INFO - 10 results extracted to MU PEK - SHA on 04-06 @14
+2017-04-06 09:18:16,661 - kvs - INFO - requests done: MU PEK - SHA on 04-06 @18
+2017-04-06 09:18:16,678 - kvs - INFO - 10 results extracted to MU PEK - SHA on 04-06 @18
+2017-04-06 09:18:49,902 - kvs - INFO - requests done: MU PEK - SHA on 04-06 @22
+2017-04-06 09:18:49,912 - kvs - INFO - 2 results extracted to MU PEK - SHA on 04-06 @22
+2017-04-06 09:19:20,713 - kvs - INFO - requests done: CA PEK - SHA on 04-06 @08
+2017-04-06 09:19:20,733 - kvs - INFO - 10 results extracted to CA PEK - SHA on 04-06 @08
+2017-04-06 09:19:49,568 - kvs - INFO - requests done: CA PEK - SHA on 04-06 @18
+2017-04-06 09:19:49,580 - kvs - INFO - 5 results extracted to CA PEK - SHA on 04-06 @18
+2017-04-06 09:20:37,720 - kvs - INFO - requests done: MU SHA - PEK on 04-06 @08
+2017-04-06 09:20:37,737 - kvs - INFO - 10 results extracted to MU SHA - PEK on 04-06 @08
+2017-04-06 09:21:19,093 - kvs - INFO - requests done: MU SHA - PEK on 04-06 @14
+2017-04-06 09:21:19,111 - kvs - INFO - 10 results extracted to MU SHA - PEK on 04-06 @14
+2017-04-06 09:21:54,211 - kvs - INFO - requests done: MU SHA - PEK on 04-06 @18
+2017-04-06 09:21:54,228 - kvs - INFO - 8 results extracted to MU SHA - PEK on 04-06 @18
+2017-04-06 09:22:26,159 - kvs - INFO - requests done: CA SHA - PEK on 04-06 @08
+2017-04-06 09:22:26,177 - kvs - INFO - 10 results extracted to CA SHA - PEK on 04-06 @08
+2017-04-06 09:23:12,344 - kvs - INFO - requests done: CA SHA - PEK on 04-06 @18
+2017-04-06 09:23:12,356 - kvs - INFO - 5 results extracted to CA SHA - PEK on 04-06 @18
+2017-04-06 09:23:12,357 - __main__ - INFO - 81 results written done: data/RAW-PEKSHA0406-2017-04-06 09:23:12.04.log
+2017-04-06 22:33:56,776 - kvs - INFO - requests done: MU PEK - SHA on 04-07 @08
+2017-04-06 22:33:56,804 - kvs - INFO - 10 results extracted to MU PEK - SHA on 04-07 @08
+2017-04-06 22:34:40,041 - kvs - INFO - requests done: MU PEK - SHA on 04-07 @14
+2017-04-06 22:34:40,065 - kvs - INFO - 10 results extracted to MU PEK - SHA on 04-07 @14
+2017-04-06 22:35:16,034 - kvs - INFO - requests done: MU PEK - SHA on 04-07 @18
+2017-04-06 22:35:16,051 - kvs - INFO - 10 results extracted to MU PEK - SHA on 04-07 @18
+2017-04-06 22:36:02,487 - kvs - INFO - requests done: MU PEK - SHA on 04-07 @22
+2017-04-06 22:36:02,497 - kvs - INFO - 3 results extracted to MU PEK - SHA on 04-07 @22
+2017-04-06 22:36:52,194 - kvs - INFO - requests done: CA PEK - SHA on 04-07 @08
+2017-04-06 22:36:52,215 - kvs - INFO - 10 results extracted to CA PEK - SHA on 04-07 @08
+2017-04-06 22:37:36,118 - kvs - INFO - requests done: CA PEK - SHA on 04-07 @18
+2017-04-06 22:37:36,131 - kvs - INFO - 5 results extracted to CA PEK - SHA on 04-07 @18
+2017-04-06 22:38:11,653 - kvs - INFO - requests done: MU SHA - PEK on 04-07 @08
+2017-04-06 22:38:11,671 - kvs - INFO - 10 results extracted to MU SHA - PEK on 04-07 @08
+2017-04-06 22:38:59,985 - kvs - INFO - requests done: MU SHA - PEK on 04-07 @14
+2017-04-06 22:39:00,002 - kvs - INFO - 10 results extracted to MU SHA - PEK on 04-07 @14
+2017-04-06 22:39:36,547 - kvs - INFO - requests done: MU SHA - PEK on 04-07 @18
+2017-04-06 22:39:36,571 - kvs - INFO - 10 results extracted to MU SHA - PEK on 04-07 @18
+2017-04-06 22:40:20,476 - kvs - INFO - requests done: CA SHA - PEK on 04-07 @08
+2017-04-06 22:40:20,495 - kvs - INFO - 10 results extracted to CA SHA - PEK on 04-07 @08
+2017-04-06 22:41:09,013 - kvs - INFO - requests done: CA SHA - PEK on 04-07 @18
+2017-04-06 22:41:09,026 - kvs - INFO - 5 results extracted to CA SHA - PEK on 04-07 @18
+2017-04-06 22:41:09,027 - __main__ - INFO - 90 results written done: data/RAW-PEKSHA0407-2017-04-06 22:41:09.04.log
+2017-04-07 21:40:23,067 - kvs - INFO - requests done: MU PEK - SHA on 04-08 @08
+2017-04-07 21:40:23,093 - kvs - INFO - 10 results extracted to MU PEK - SHA on 04-08 @08
+2017-04-07 21:41:11,504 - kvs - INFO - requests done: MU PEK - SHA on 04-08 @14
+2017-04-07 21:41:11,522 - kvs - INFO - 10 results extracted to MU PEK - SHA on 04-08 @14
+2017-04-07 21:41:48,676 - kvs - INFO - requests done: MU PEK - SHA on 04-08 @18
+2017-04-07 21:41:48,693 - kvs - INFO - 10 results extracted to MU PEK - SHA on 04-08 @18
+2017-04-07 21:42:31,578 - kvs - INFO - requests done: MU PEK - SHA on 04-08 @22
+2017-04-07 21:42:31,590 - kvs - INFO - 2 results extracted to MU PEK - SHA on 04-08 @22
+2017-04-07 21:43:08,052 - kvs - INFO - requests done: CA PEK - SHA on 04-08 @08
+2017-04-07 21:43:08,072 - kvs - INFO - 10 results extracted to CA PEK - SHA on 04-08 @08
+2017-04-07 21:43:58,928 - kvs - INFO - requests done: CA PEK - SHA on 04-08 @18
+2017-04-07 21:43:58,940 - kvs - INFO - 5 results extracted to CA PEK - SHA on 04-08 @18
+2017-04-07 21:44:41,323 - kvs - INFO - requests done: MU SHA - PEK on 04-08 @08
+2017-04-07 21:44:41,340 - kvs - INFO - 10 results extracted to MU SHA - PEK on 04-08 @08
+2017-04-07 21:45:24,536 - kvs - INFO - requests done: MU SHA - PEK on 04-08 @14
+2017-04-07 21:45:24,556 - kvs - INFO - 10 results extracted to MU SHA - PEK on 04-08 @14
+2017-04-07 21:46:14,967 - kvs - INFO - requests done: MU SHA - PEK on 04-08 @18
+2017-04-07 21:46:14,984 - kvs - INFO - 7 results extracted to MU SHA - PEK on 04-08 @18
+2017-04-07 21:46:48,504 - kvs - INFO - requests done: CA SHA - PEK on 04-08 @08
+2017-04-07 21:46:48,521 - kvs - INFO - 10 results extracted to CA SHA - PEK on 04-08 @08
+2017-04-07 21:47:37,320 - kvs - INFO - requests done: CA SHA - PEK on 04-08 @18
+2017-04-07 21:47:37,334 - kvs - INFO - 5 results extracted to CA SHA - PEK on 04-08 @18
+2017-04-07 21:47:37,336 - __main__ - INFO - 78 results written done: data/RAW-PEKSHA0408-2017-04-07 21:47:37.04.log
+2017-04-08 21:57:48,850 - kvs - INFO - requests done: MU PEK - SHA on 04-09 @08
+2017-04-08 21:57:48,874 - kvs - INFO - 10 results extracted to MU PEK - SHA on 04-09 @08
+2017-04-08 21:58:39,406 - kvs - INFO - requests done: MU PEK - SHA on 04-09 @14
+2017-04-08 21:58:39,424 - kvs - INFO - 10 results extracted to MU PEK - SHA on 04-09 @14
+2017-04-08 21:59:27,867 - kvs - INFO - requests done: MU PEK - SHA on 04-09 @18
+2017-04-08 21:59:27,883 - kvs - INFO - 10 results extracted to MU PEK - SHA on 04-09 @18
+2017-04-08 22:19:21,897 - kvs - ERROR - requests ERROR while fetching MU PEK to SHA on 04-09 @22
+Traceback (most recent call last):
+  File "/Users/Simon/PycharmProjects/FlightsSpider/kvs.py", line 22, in kvs_flight_data
+    response = requests.post(url, headers=headers, data=form, cookies=cookies)
+  File "/Users/Simon/python-env/lib/python2.7/site-packages/requests/api.py", line 110, in post
+    return request('post', url, data=data, json=json, **kwargs)
+  File "/Users/Simon/python-env/lib/python2.7/site-packages/requests/api.py", line 56, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/Users/Simon/python-env/lib/python2.7/site-packages/requests/sessions.py", line 475, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Users/Simon/python-env/lib/python2.7/site-packages/requests/sessions.py", line 596, in send
+    r = adapter.send(request, **kwargs)
+  File "/Users/Simon/python-env/lib/python2.7/site-packages/requests/adapters.py", line 423, in send
+    timeout=timeout
+  File "/Users/Simon/python-env/lib/python2.7/site-packages/requests/packages/urllib3/connectionpool.py", line 595, in urlopen
+    chunked=chunked)
+  File "/Users/Simon/python-env/lib/python2.7/site-packages/requests/packages/urllib3/connectionpool.py", line 386, in _make_request
+    httplib_response = conn.getresponse(buffering=True)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/httplib.py", line 1132, in getresponse
+    response.begin()
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/httplib.py", line 453, in begin
+    version, status, reason = self._read_status()
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/httplib.py", line 409, in _read_status
+    line = self.fp.readline(_MAXLINE + 1)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/socket.py", line 480, in readline
+    data = self._sock.recv(self._rbufsize)
+KeyboardInterrupt
+2017-04-08 22:58:26,005 - kvs - INFO - requests done: MU PEK - SHA on 04-09 @08
+2017-04-08 22:58:26,035 - kvs - INFO - 10 results extracted to MU PEK - SHA on 04-09 @08
+2017-04-08 22:59:09,736 - kvs - INFO - requests done: MU PEK - SHA on 04-09 @14
+2017-04-08 22:59:09,754 - kvs - INFO - 10 results extracted to MU PEK - SHA on 04-09 @14
+2017-04-08 22:59:42,854 - kvs - INFO - requests done: MU PEK - SHA on 04-09 @18
+2017-04-08 22:59:42,872 - kvs - INFO - 10 results extracted to MU PEK - SHA on 04-09 @18
+2017-04-08 23:00:37,192 - kvs - INFO - requests done: MU PEK - SHA on 04-09 @22
+2017-04-08 23:00:37,206 - kvs - INFO - 3 results extracted to MU PEK - SHA on 04-09 @22
+2017-04-08 23:01:12,496 - kvs - INFO - requests done: CA PEK - SHA on 04-09 @08
+2017-04-08 23:01:12,517 - kvs - INFO - 10 results extracted to CA PEK - SHA on 04-09 @08
+2017-04-08 23:01:49,672 - kvs - INFO - requests done: CA PEK - SHA on 04-09 @18
+2017-04-08 23:01:49,685 - kvs - INFO - 5 results extracted to CA PEK - SHA on 04-09 @18
+2017-04-08 23:02:35,114 - kvs - INFO - requests done: MU SHA - PEK on 04-09 @08
+2017-04-08 23:02:35,168 - kvs - INFO - 10 results extracted to MU SHA - PEK on 04-09 @08
+2017-04-08 23:03:11,179 - kvs - INFO - requests done: MU SHA - PEK on 04-09 @14
+2017-04-08 23:03:11,199 - kvs - INFO - 10 results extracted to MU SHA - PEK on 04-09 @14
+2017-04-08 23:03:42,538 - kvs - INFO - requests done: MU SHA - PEK on 04-09 @18
+2017-04-08 23:03:42,563 - kvs - INFO - 10 results extracted to MU SHA - PEK on 04-09 @18
+2017-04-08 23:04:17,848 - kvs - INFO - requests done: CA SHA - PEK on 04-09 @08
+2017-04-08 23:04:17,867 - kvs - INFO - 10 results extracted to CA SHA - PEK on 04-09 @08
+2017-04-08 23:04:51,888 - kvs - INFO - requests done: CA SHA - PEK on 04-09 @18
+2017-04-08 23:04:51,902 - kvs - INFO - 5 results extracted to CA SHA - PEK on 04-09 @18
+2017-04-08 23:04:51,904 - __main__ - INFO - 78 results written done: data/RAW-PEKSHA0409-2017-04-08 23:04:51.04.log
+2017-04-09 20:49:24,204 - __main__ - INFO - 78 results added done: PEKSHA.json, total 485
+2017-04-09 21:12:15,299 - kvs - INFO - requests done: MU PEK - SHA on 04-10 @08
+2017-04-09 21:12:15,326 - kvs - INFO - 10 results extracted to MU PEK - SHA on 04-10 @08
+2017-04-09 21:13:01,050 - kvs - INFO - requests done: MU PEK - SHA on 04-10 @14
+2017-04-09 21:13:01,069 - kvs - INFO - 10 results extracted to MU PEK - SHA on 04-10 @14
+2017-04-09 21:14:02,392 - kvs - INFO - requests done: MU PEK - SHA on 04-10 @18
+2017-04-09 21:14:02,409 - kvs - INFO - 10 results extracted to MU PEK - SHA on 04-10 @18
+2017-04-09 21:14:48,567 - kvs - INFO - requests done: MU PEK - SHA on 04-10 @22
+2017-04-09 21:14:48,580 - kvs - INFO - 3 results extracted to MU PEK - SHA on 04-10 @22
+2017-04-09 21:15:36,535 - kvs - INFO - requests done: CA PEK - SHA on 04-10 @08
+2017-04-09 21:15:36,555 - kvs - INFO - 10 results extracted to CA PEK - SHA on 04-10 @08
+2017-04-09 21:16:13,870 - kvs - INFO - requests done: CA PEK - SHA on 04-10 @18
+2017-04-09 21:16:13,881 - kvs - INFO - 5 results extracted to CA PEK - SHA on 04-10 @18
+2017-04-09 21:17:00,453 - kvs - INFO - requests done: MU SHA - PEK on 04-10 @08
+2017-04-09 21:17:00,471 - kvs - INFO - 10 results extracted to MU SHA - PEK on 04-10 @08
+2017-04-09 21:17:34,011 - kvs - INFO - requests done: MU SHA - PEK on 04-10 @14
+2017-04-09 21:17:34,029 - kvs - INFO - 10 results extracted to MU SHA - PEK on 04-10 @14
+2017-04-09 21:18:13,578 - kvs - INFO - requests done: MU SHA - PEK on 04-10 @18
+2017-04-09 21:18:13,595 - kvs - INFO - 10 results extracted to MU SHA - PEK on 04-10 @18
+2017-04-09 21:18:44,700 - kvs - INFO - requests done: CA SHA - PEK on 04-10 @08
+2017-04-09 21:18:44,717 - kvs - INFO - 10 results extracted to CA SHA - PEK on 04-10 @08
+2017-04-09 21:19:32,670 - kvs - INFO - requests done: CA SHA - PEK on 04-10 @18
+2017-04-09 21:19:32,685 - kvs - INFO - 5 results extracted to CA SHA - PEK on 04-10 @18
+2017-04-09 21:19:32,686 - __main__ - INFO - 84 results written done: data/RAW-PEKSHA0410-2017-04-09 21:19:32.04.log
+2017-04-09 21:19:32,712 - __main__ - INFO - 84 results added done: PEKSHA.json, total 569
+2017-04-10 20:08:37,004 - kvs - INFO - requests done: MU PEK - SHA on 04-11 @08
+2017-04-10 20:08:37,036 - kvs - INFO - 10 results extracted to MU PEK - SHA on 04-11 @08
+2017-04-10 20:09:18,330 - kvs - INFO - requests done: MU PEK - SHA on 04-11 @14
+2017-04-10 20:09:18,348 - kvs - INFO - 10 results extracted to MU PEK - SHA on 04-11 @14
+2017-04-10 20:09:53,382 - kvs - INFO - requests done: MU PEK - SHA on 04-11 @18
+2017-04-10 20:09:53,398 - kvs - INFO - 10 results extracted to MU PEK - SHA on 04-11 @18
+2017-04-10 20:10:46,360 - kvs - INFO - requests done: MU PEK - SHA on 04-11 @22
+2017-04-10 20:10:46,371 - kvs - INFO - 2 results extracted to MU PEK - SHA on 04-11 @22
+2017-04-10 20:11:30,183 - kvs - INFO - requests done: CA PEK - SHA on 04-11 @08
+2017-04-10 20:11:30,213 - kvs - INFO - 10 results extracted to CA PEK - SHA on 04-11 @08
+2017-04-10 20:12:04,591 - kvs - INFO - requests done: CA PEK - SHA on 04-11 @18
+2017-04-10 20:12:04,604 - kvs - INFO - 5 results extracted to CA PEK - SHA on 04-11 @18
+2017-04-10 20:12:42,559 - kvs - INFO - requests done: MU SHA - PEK on 04-11 @08
+2017-04-10 20:12:42,576 - kvs - INFO - 10 results extracted to MU SHA - PEK on 04-11 @08
+2017-04-10 20:14:11,857 - kvs - INFO - requests done: MU SHA - PEK on 04-11 @14
+2017-04-10 20:14:11,875 - kvs - INFO - 10 results extracted to MU SHA - PEK on 04-11 @14
+2017-04-10 20:14:58,340 - kvs - INFO - requests done: MU SHA - PEK on 04-11 @18
+2017-04-10 20:14:58,356 - kvs - INFO - 8 results extracted to MU SHA - PEK on 04-11 @18
+2017-04-10 20:15:39,198 - kvs - INFO - requests done: CA SHA - PEK on 04-11 @08
+2017-04-10 20:15:39,213 - kvs - INFO - 10 results extracted to CA SHA - PEK on 04-11 @08
+2017-04-10 20:16:26,896 - kvs - INFO - requests done: CA SHA - PEK on 04-11 @18
+2017-04-10 20:16:26,911 - kvs - INFO - 6 results extracted to CA SHA - PEK on 04-11 @18
+2017-04-10 20:16:26,911 - __main__ - INFO - 81 results written done: data/RAW-PEKSHA0411-2017-04-10 20:16:26.04.log
+2017-04-10 20:16:26,960 - __main__ - INFO - 81 results added done: PEKSHA.json, total 650
+2017-04-11 22:18:16,056 - kvs - INFO - requests done: MU PEK - SHA on 04-12 @08
+2017-04-11 22:18:16,079 - kvs - INFO - 10 results extracted to MU PEK - SHA on 04-12 @08
+2017-04-11 22:18:58,822 - kvs - INFO - requests done: MU PEK - SHA on 04-12 @14
+2017-04-11 22:18:58,839 - kvs - INFO - 10 results extracted to MU PEK - SHA on 04-12 @14
+2017-04-11 22:19:46,902 - kvs - INFO - requests done: MU PEK - SHA on 04-12 @18
+2017-04-11 22:19:46,919 - kvs - INFO - 10 results extracted to MU PEK - SHA on 04-12 @18
+2017-04-11 22:20:18,897 - kvs - INFO - requests done: MU PEK - SHA on 04-12 @22
+2017-04-11 22:20:18,908 - kvs - INFO - 3 results extracted to MU PEK - SHA on 04-12 @22
+2017-04-11 22:20:59,964 - kvs - INFO - requests done: CA PEK - SHA on 04-12 @08
+2017-04-11 22:20:59,990 - kvs - INFO - 10 results extracted to CA PEK - SHA on 04-12 @08
+2017-04-11 22:21:43,666 - kvs - INFO - requests done: CA PEK - SHA on 04-12 @18
+2017-04-11 22:21:43,679 - kvs - INFO - 5 results extracted to CA PEK - SHA on 04-12 @18
+2017-04-11 22:22:16,131 - kvs - INFO - requests done: MU SHA - PEK on 04-12 @08
+2017-04-11 22:22:16,146 - kvs - INFO - 10 results extracted to MU SHA - PEK on 04-12 @08
+2017-04-11 22:23:05,247 - kvs - INFO - requests done: MU SHA - PEK on 04-12 @14
+2017-04-11 22:23:05,265 - kvs - INFO - 10 results extracted to MU SHA - PEK on 04-12 @14
+2017-04-11 22:23:48,363 - kvs - INFO - requests done: MU SHA - PEK on 04-12 @18
+2017-04-11 22:23:48,380 - kvs - INFO - 10 results extracted to MU SHA - PEK on 04-12 @18
+2017-04-11 22:24:31,923 - kvs - INFO - requests done: CA SHA - PEK on 04-12 @08
+2017-04-11 22:24:31,941 - kvs - INFO - 10 results extracted to CA SHA - PEK on 04-12 @08
+2017-04-11 22:25:14,071 - kvs - INFO - requests done: CA SHA - PEK on 04-12 @18
+2017-04-11 22:25:14,086 - kvs - INFO - 6 results extracted to CA SHA - PEK on 04-12 @18
+2017-04-11 22:25:14,087 - __main__ - INFO - 84 results written done: data/RAW-PEKSHA0412-2017-04-11 22:25:14.04.log
+2017-04-11 22:25:14,136 - __main__ - INFO - 84 results added done: PEKSHA.json, total 734
+2017-04-12 21:24:26,406 - kvs - INFO - requests done: MU PEK - SHA on 04-13 @08
+2017-04-12 21:24:26,431 - kvs - INFO - 10 results extracted to MU PEK - SHA on 04-13 @08
+2017-04-12 21:25:11,391 - kvs - INFO - requests done: MU PEK - SHA on 04-13 @14
+2017-04-12 21:25:11,407 - kvs - INFO - 10 results extracted to MU PEK - SHA on 04-13 @14
+2017-04-12 21:25:56,338 - kvs - INFO - requests done: MU PEK - SHA on 04-13 @18
+2017-04-12 21:25:56,354 - kvs - INFO - 10 results extracted to MU PEK - SHA on 04-13 @18
+2017-04-12 21:26:39,387 - kvs - INFO - requests done: MU PEK - SHA on 04-13 @22
+2017-04-12 21:26:39,399 - kvs - INFO - 2 results extracted to MU PEK - SHA on 04-13 @22
+2017-04-12 21:27:23,426 - kvs - INFO - requests done: CA PEK - SHA on 04-13 @08
+2017-04-12 21:27:23,448 - kvs - INFO - 10 results extracted to CA PEK - SHA on 04-13 @08
+2017-04-12 21:28:31,017 - kvs - INFO - requests done: CA PEK - SHA on 04-13 @18
+2017-04-12 21:28:31,031 - kvs - INFO - 5 results extracted to CA PEK - SHA on 04-13 @18
+2017-04-12 21:29:11,966 - kvs - INFO - requests done: MU SHA - PEK on 04-13 @08
+2017-04-12 21:29:11,983 - kvs - INFO - 10 results extracted to MU SHA - PEK on 04-13 @08
+2017-04-12 21:29:58,568 - kvs - INFO - requests done: MU SHA - PEK on 04-13 @14
+2017-04-12 21:29:58,589 - kvs - INFO - 10 results extracted to MU SHA - PEK on 04-13 @14
+2017-04-12 21:30:43,310 - kvs - INFO - requests done: MU SHA - PEK on 04-13 @18
+2017-04-12 21:30:43,325 - kvs - INFO - 8 results extracted to MU SHA - PEK on 04-13 @18
+2017-04-12 21:31:33,839 - kvs - INFO - requests done: CA SHA - PEK on 04-13 @08
+2017-04-12 21:31:33,856 - kvs - INFO - 10 results extracted to CA SHA - PEK on 04-13 @08
+2017-04-12 21:32:17,022 - kvs - INFO - requests done: CA SHA - PEK on 04-13 @18
+2017-04-12 21:32:17,035 - kvs - INFO - 5 results extracted to CA SHA - PEK on 04-13 @18
+2017-04-12 21:32:17,037 - __main__ - INFO - 82 results written done: data/RAW-PEKSHA0413-2017-04-12 21:32:17.04.log
+2017-04-12 21:32:17,102 - __main__ - INFO - 82 results added done: PEKSHA.json, total 816
