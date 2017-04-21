@@ -115,15 +115,34 @@ for citypair in airline_time_tensor:
             form['Time'] = flight_time
             time.sleep(10 + random.randint(10, 30))
 
-            flight_result.extend(kvs.kvs_flight_data(url, headers, form, cookies))
+            # added random robot action 2017-04-21
+            if random.random() > 0.8:
+                logger.info('[ROBOT] rand>0.8 starting...')
+                kvs.kvs_flight_robot(url, headers, kvs.robot_form(), cookies)
+                time.sleep(5 + random.randint(5, 18))
 
+            return_result = kvs.kvs_flight_data(url, headers, form, cookies)
+
+            flag_count = 1
+            while len(return_result) is 0:
+                time.sleep(5 + random.randint(5, 15))
+                logger.info('[ROBOT] #%d starting...', flag_count)
+                kvs.kvs_flight_robot(url, headers, kvs.robot_form(), cookies)
+                flag_count = flag_count + 1
+
+                time.sleep(5 + random.randint(10, 15))
+                return_result = kvs.kvs_flight_data(url, headers, form, cookies)
+
+            flight_result.extend(return_result)
 
   #去重复
 flight_result_cleaned = list(set(flight_result))
 flight_result_cleaned.sort(key=flight_result.index)
 
+# todo 存在衔接处的重复航班 前后两次在座位变化后被认为是不重复的两个记录的问题。 或者在座位余量计算里面按照航班日期航班号来计算，去掉重复
+
 #保存时间
-time_now = datetime.strftime(datetime.now(), "%Y-%m-%d %H:%M:%S.%m")
+time_now = datetime.strftime(datetime.now(), "%Y-%m-%d-%H:%M:%S.%m")
 
 # 保存文本数据
 fp_name = "data/RAW-"+airline_time_tensor.keys()[0]+form['Date_M']+form['Date_D']+'-'+time_now+'.log'
@@ -183,9 +202,10 @@ logger.info('%d results added done: %s, total %d', len(dff_df), df_fp_name, len(
 
 # 备份json
 dfbak_name = "data/"+airline_time_tensor.keys()[0]+'-bak-'+str(tomorrow.year)+form['Date_M']+form['Date_D']+'.json'
-if tomorrow.day % 3 is 0:
+if tomorrow.day % 2 is 0:
     shutil.copy(df_fp_name, dfbak_name)
     logger.info('json backup done: %s', dfbak_name)
+
 
 
 

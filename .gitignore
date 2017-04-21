@@ -3,3 +3,7 @@ cookie.json
 main-debug.py
 test.csv
 todo.note
+.DS_Store
+.idea/
+data/.DS_Store
+kvs.pyc
